@@ -1,0 +1,1 @@
+class PassengerVan < Van; end
